@@ -1,4 +1,4 @@
-# Restaurant-Order-Analysis
+# 🛠 Restaurant-Order-Analysis
 Analyzed order data to identify the most and least popular menu items and types of cuisine. <br/><br/>
 ## **Project overview**  
 This data analysis project aims to provide insights into the sales performance of an international Restaurant. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.<br/>
